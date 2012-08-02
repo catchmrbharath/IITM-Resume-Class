@@ -109,7 +109,7 @@
 %\EduDetails must be used in order to enter stuff in here
 \newenvironment{EducationTable}{%
   \begin{center}%
-    \begin{tabular*}{\textwidth}{p{.25\textwidth} c c r}%
+    \begin{tabular*}{\textwidth}{p{.25\textwidth} c c c}%
       {\bf Program} & {\bf Institution} & {\bf \%/CGPA} & {\bf Year of completion} \\[.75em] %
 }
 {\end{tabular*}%
