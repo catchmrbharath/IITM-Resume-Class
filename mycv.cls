@@ -9,7 +9,7 @@
 
 %Following are all the packages required for this class file
 \RequirePackage{titlesec}
-\RequirePackage{palatino}
+\RequirePackage{charter}
 \RequirePackage[hmargin=.5in, vmargin=.5in]{geometry}
 \RequirePackage{amsmath}
 \RequirePackage{amssymb}
