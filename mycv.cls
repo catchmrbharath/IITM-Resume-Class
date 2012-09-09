@@ -1,4 +1,4 @@
-%\NeedsTexFormat{LaTeX2e}
+\NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{mycv}[2011/09/18 Insti Standard Template CV]
 %\renewcommand{\normalsize}{\fontsize{10pt}{12pt}\selectfont}
 %\setlength{\textwidth}{6.5in}
@@ -47,7 +47,7 @@
   \end{minipage}
   \begin{minipage}[.3\textwidth]{0.4\textwidth}
     \raggedleft
-    \includegraphics[width=.3\textwidth]{logo.PNG} %Insti logo
+    \includegraphics[width=.3\textwidth]{logo.ps} %Insti logo
   \end{minipage}
   \\[.5em] 
   \begin{minipage}{.33\textwidth}
