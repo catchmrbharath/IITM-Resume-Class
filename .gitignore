@@ -1,0 +1,7 @@
+# We don't want to track the .dvi files created by the 'latex' command
+*.dvi
+
+# On issuing the 'latex' command, several auxiliary files are generated
+# We don't want to track these either
+*.aux
+*.log
