@@ -47,7 +47,7 @@
   \end{minipage}
   \begin{minipage}[.3\textwidth]{0.4\textwidth}
     \raggedleft
-    \includegraphics[width=.3\textwidth]{logo.ps} %Insti logo
+    \includegraphics[width=.3\textwidth]{logo.png} %Insti logo
   \end{minipage}
   \\[.5em] 
   \begin{minipage}{.33\textwidth}
