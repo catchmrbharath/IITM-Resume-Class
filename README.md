@@ -1,5 +1,4 @@
-This is the work of Siddharth Shekhar and I am trying to publicize it and make
-it better. If you end up improving it, please send a pull request so that all
+This is the work of Siddharth Shekhar. If you end up improving it, please send a pull request so that all
 of us can use it.
 
 This is a readme file that will help you to use the mycv.cls file so that you
