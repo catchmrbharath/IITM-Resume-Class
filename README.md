@@ -1,5 +1,5 @@
 ##Important
-*Let me know if somebody from IITM wants to take over the repo and maintain it.*
+**Let me know if somebody from IITM wants to take over the repo and maintain it.**
 
 
 This is the work of Siddharth Shekhar. If you end up improving it, please send a pull request so that all
